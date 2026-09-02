@@ -29,6 +29,7 @@ python extract_playlist.py
 
 ## Output
 A `playlist_titles.csv` file with columns: `position`, `title`, `channel`, `url`.
+
 #Example:
 <img width="1135" height="885" alt="image" src="https://github.com/user-attachments/assets/55d42e80-e679-48f8-bce1-cf3454741ad5" />
 
