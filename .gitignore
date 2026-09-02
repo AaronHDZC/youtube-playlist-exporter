@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Output files
+playlist_titles.csv
+
+# API keys / secrets
+.env
